@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container{
+
+    display: flex;
+}
+
+.container_items{
+    width: 2em;
+    height: 2em;
+    background-color: gray;
+    margin: 0.5px;;
+}
+
+.add_color{
+
+    background-color: pink;
+   
+}
+
+button{
+    margin:10px;
+    padding:5px;;
+    font-size: large;
+}
